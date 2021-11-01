@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project created using React and Styled components.
 
 ## Available Scripts
 
